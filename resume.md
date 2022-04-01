@@ -1,55 +1,37 @@
-# Your Name
+# Namit Singh
 
-your.name@example.com
+Address: Somewhere in Seattle
 
-http://www.example.com
+Phone: 206-123-456
 
-http://www.linkedin.com/in/yourname
+namit.singh@email.com
 
-# Summary
+<a href="https://www.linkedin.com/in/namit-singh/">
+    <img src="/assets/linkedin-svgrepo-com.svg" width="32" height="32" />
+</a>
 
-Quick Summary (not objective) specifically highlighting why you qualify for the job.
+## Summary
+I have the relevant work experience and course work to excel at this job position.
 
-# Work Experience (only last 10 years)
+## Work Experience
 
-## University Name 1 (City, State)
+- Software Developer Intern at Medtronic, 2021
+- CSE 180 TA at UW Seattle, 2020
+- Software Developer Intern at Aquila Clouds, 2019
 
-* [University 1][] description, particularly if not well-known.*
+### [University of Washington, Seattle][]
 
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
+> The University of Washington is a public research university in Seattle, Washington. Founded in 1861, Washington is one of the oldest universities on the West Coast
 
-Summary of your role
+##### Major: Geography: Data Science (August 2018 - June 2022)
 
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
+##### Accomplishments:
 
-## University Name 2 (City, State)
-*[University 2][] description, particularly if not well-known.*
+> - [Dubhacks][] 2019: Best UiPath Hack Winner
+> - [UW Game Dev Club][] Officer: 2021 - Present
+> - [Impact++][] Club: Frontend Dev and Project Manager
 
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-## University Name 3 (City, State)
-* [University 3][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-
-[University 1]: http://www.univ1.edu
-[University 2]: http://www.univ2.edu
-[University 3]: http://www.univ3.edu
+[university of washington, seattle]: https://www.washington.edu/
+[dubhacks]: https://www.dubhacks.co/
+[impact++]: https://sites.google.com/view/udubimpact
+[uw game dev club]: http://uwgamedev.com/
